@@ -36,7 +36,7 @@ Get an overview of the program, meet the instructors, and refresh your Python sk
 - **Lesson 3: How to Solve Problems**
 - **Lesson 4: Big Notation**
 
-**Course Project**: Unscramble Computer Science Problems
+**Course Project**: [Unscramble Computer Science Problems](unscramble_cs_problems.md)
 
 ### Course 2: Data Structures
 Learn different data structures, implement methods to manipulate them, and examine their efficiency. Understand the advantages and applications of different data structures.
