@@ -43,9 +43,11 @@ Get an overview of the program, meet the instructors, and refresh your Python sk
 I worked on the Unscramble Computer Science Problems project and received positive feedback for using efficient data structures in Python. However, I struggled with the time complexity for Task 3, which required a linear time solution. After extensive research, I successfully implemented an algorithm that met the linear time complexity requirement. This experience reinforced my problem-solving skills and deepened my understanding of algorithmic efficiency. Thanks to the valuable feedback and guidance I received, I am now more confident in my ability to analyze and optimize code. See screenshots below
 
 **ScreenShots of Reviewer for Unscramble Computer Science Problems Project** 
-- ![Reviewer Notes](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Screenshot_20240623_191358.png)
-- ![Failed Rubic Reqiurement](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Screenshot_20240623_191406.png)
-- ![Recommended Changes To Pass Rubic](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Screenshot_20240623_191419.png)
+![Reviewer Notes](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Screenshot_20240623_191358.png)
+
+![Failed Rubic Reqiurement](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Screenshot_20240623_191406.png)
+
+![Recommended Changes To Pass Rubic](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Screenshot_20240623_191419.png)
 
 
 
