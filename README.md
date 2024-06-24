@@ -38,7 +38,18 @@ Get an overview of the program, meet the instructors, and refresh your Python sk
 
 **Course Project**: [Unscramble Computer Science Problems](unscramble_cs_problems.md)
 
-### Course 2: Data Structures
+**My Experience with Unscramble Computer Science Problems Project**
+
+I worked on the Unscramble Computer Science Problems project and received positive feedback for using efficient data structures in Python. However, I struggled with the time complexity for Task 3, which required a linear time solution. After extensive research, I successfully implemented an algorithm that met the linear time complexity requirement. This experience reinforced my problem-solving skills and deepened my understanding of algorithmic efficiency. Thanks to the valuable feedback and guidance I received, I am now more confident in my ability to analyze and optimize code. See screenshots below
+
+**ScreenShots of Reviewer for Unscramble Computer Science Problems Project** 
+- ![Screenshot of the app](https://github.com/username/repo/raw/main/images/screenshot.png)
+- ![Screenshot of the app](https://github.com/username/repo/raw/main/images/screenshot.png)
+- ![Screenshot of the app](https://github.com/username/repo/raw/main/images/screenshot.png)
+
+
+
+## Course 2: Data Structures
 Learn different data structures, implement methods to manipulate them, and examine their efficiency. Understand the advantages and applications of different data structures.
 
 - **Lesson 1: Collection Data Structures (lists, arrays, linked lists, queues, stack)**
@@ -57,7 +68,7 @@ Learn different data structures, implement methods to manipulate them, and exami
 
 **Course Project**: Show Me the Data Structures
 
-### Course 3: Basic Algorithms
+## Course 3: Basic Algorithms
 Learn and implement basic algorithms such as searching and sorting on different data structures. Examine the efficiency of these algorithms and practice modifying them for various interview problems.
 
 - **Lesson 1: Binary Search**
@@ -71,7 +82,7 @@ Learn and implement basic algorithms such as searching and sorting on different 
 
 **Course Project**: Problems vs. Algorithms
 
-### Course 4: Advanced Algorithms
+## Course 4: Advanced Algorithms
 Build on your algorithm skills by learning more advanced algorithms such as brute-force and greedy algorithms, graph algorithms, and dynamic programming.
 
 - **Lesson 1: Greedy Algorithms**
