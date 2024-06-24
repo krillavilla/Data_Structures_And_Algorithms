@@ -59,3 +59,7 @@ Use the rubric to check your work before submission. A Udacity Reviewer will giv
 
 #### Time-Complexity
 - Student provides a text file accurately explaining their run time analysis (Worst-Case Big-O Notation) for each solution they produced.
+
+#### My Experience 
+
+I worked on the Unscramble Computer Science Problems project and received positive feedback for using efficient data structures in Python. However, I struggled with the time complexity for Task 3, which required a linear time solution. After extensive research, I successfully implemented an algorithm that met the linear time complexity requirement. This experience reinforced my problem-solving skills and deepened my understanding of algorithmic efficiency. Thanks to the valuable feedback and guidance I received, I am now more confident in my ability to analyze and optimize code.
