@@ -68,7 +68,7 @@ Learn different data structures, implement methods to manipulate them, and exami
 - **Lesson 3: Trees**
 - **Lesson 4: Maps & Hashing**
 
-**Course Project**: Show Me the Data Structures
+**Course Project**: [Show Me the Data Structures](https://github.com/krillavilla/Data_Structures_And_Algorithms/blob/main/Show_Me_The_Structures.md)
 
 ## Course 3: Basic Algorithms
 Learn and implement basic algorithms such as searching and sorting on different data structures. Examine the efficiency of these algorithms and practice modifying them for various interview problems.
